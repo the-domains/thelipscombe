@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[thelipscombe]]></title>
         <description><![CDATA[thelipscombe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thelipscombe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 23:12:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 23:12:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thelipscombe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mosaic Entertainment welcomes Jesse Lipscombe]]></title>
+            <description><![CDATA[<article><h1>Mosaic Entertainment welcomes Jesse Lipscombe</h1><p>Lipscombe brings over 18 years of film & business experience to growing production company. Edmonton, Alberta, Canada, January 11 th, 2012 - Mosaic Entertainment announced today that Jesse Lipscombe has been named Partner & Executive Producer, joining co-founders and Executive Producers Eric Rebalkin and Camille Beaudoin.</p><img src="http://mosaicentertainment.ca/wp-content/uploads/2013/02/jesse-news.png"></article>]]></description>
+            <link>http://mosaicentertainment.ca/general-news/welcome-jess/</link>
+            <guid isPermaLink="false">e4d93737-ef53-48a3-a031-7976c9e26ec7</guid>
+            <pubDate>Wed, 18 Nov 2015 23:12:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jesse Lipscombe (thelipscombe) on about.me]]></title>
             <description><![CDATA[<article><h1>Jesse Lipscombe (thelipscombe) on about.me</h1><p>View Jesse Lipscombe on about.me. About.me makes it easy for you to learn about Jesse Lipscombe's background and interests.</p><img src="http://o.aolcdn.com/dims-global/dims/ABOUTME/5/200/200/100/http://d3mod6n032mdiz.cloudfront.net/thumb2/t/h/e/thelipscombe/thelipscombe-840x560.jpg"></article>]]></description>
