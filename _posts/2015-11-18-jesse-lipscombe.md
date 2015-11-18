@@ -1,36 +1,38 @@
 ---
-author: []
+author:
+  - name: Jesse Lipscombe
+    url: 'http://soundcloud.com/jesse-lipscombe'
+    avatar: {}
 related: []
 publisher:
-  url: 'http://www.imdb.com'
-  name: IMDb
-  favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico'
-  domain: www.imdb.com
-keywords:
-  - post-production
-  - film-book
-  - producer
-  - movies
-  - trailers
-  - hell
-  - wheels
-  - fault
-  - anyway
-  - '2015'
-description: "Jesse Lipscombe, Actor: Resurrecting the Champ. Jesse Lipscombe is a producer and actor, known for Resurrecting the Champ (2007), Truckstop Bloodsuckers (2012) and It's Not My Fault and I Don't Care Anyway (2015)."
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.imdb.com/name/nm0513737/'
+  url: 'http://soundcloud.com'
+  name: SoundCloud
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
+keywords: []
+description: 'Listen to Jesse Lipscombe | Explore the largest community of artists, bands, podcasters and creators of music & audio.. 5 Tracks. 51 Followers. Stream Tracks and Playlists from Jesse Lipscombe on your desktop or mobile device.'
+app_links:
+  - type: ios
+    app_name: SoundCloud
+    app_store_id: '336353151'
+  - url: 'soundcloud://users:42064246'
+    type: ios
+    app_name: SoundCloud
+    package: com.soundcloud.android
+  - url: 'soundcloud://users:42064246'
+    should_fallback: 'false'
+    type: web
+isBasedOnUrl: 'https://soundcloud.com/jesse-lipscombe'
 title: Jesse Lipscombe
-datePublished: '2015-11-18T23:12:34.493Z'
-dateModified: '2015-11-18T23:08:30.448Z'
+datePublished: '2015-11-18T23:13:35.207Z'
+dateModified: '2015-11-18T23:11:34.223Z'
 sourcePath: _posts/2015-11-18-jesse-lipscombe.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+_type: AudioObject
 _context: 'http://schema.org'
-_type: MediaObject
 
 ---
-<article style=""><h1>Jesse Lipscombe</h1><p>Jesse Lipscombe&amp;comma; Actor&amp;colon; Resurrecting the Champ&amp;period; Jesse Lipscombe is a producer and actor&amp;comma; known for Resurrecting the Champ &amp;lpar;2007&amp;rpar;&amp;comma; Truckstop Bloodsuckers &amp;lpar;2012&amp;rpar; and It's Not My Fault and I Don't Care Anyway &amp;lpar;2015&amp;rpar;&amp;period;</p><img src="http://ia.media-imdb.com/images/M/MV5BMjM1NjI0NjkzOV5BMl5BanBnXkFtZTgwNDQ3NTA2MjE@._V1_UY1200_CR285,0,630,1200_AL_.jpg" /></article>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fusers%252F42064246%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fjesse-lipscombe&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000039255038-9aw5s1-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
