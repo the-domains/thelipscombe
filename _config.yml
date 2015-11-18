@@ -1,0 +1,23 @@
+name: thelipscombe
+favicon: null
+layout_spectrum: 0.5886749024502933
+typography_spectrum: 0.3754532220773399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6083214832469821
+  lightness: 0.2902258827816695
+  saturation: 0.5916448952630162
+  rhythmicContrast: 0.2787377054337412
+purpose: []
